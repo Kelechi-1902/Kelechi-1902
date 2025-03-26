@@ -21,7 +21,7 @@ Here are a few of my key projects:
 Feel free to explore my repositories, contribute, or start a conversation! Your feedback and collaboration are always welcome.
 
 ## 🌍 Connect with Me
-- 📬 Email: [kalukelechi401@gmail.com]
+- 📬 Email:kalukelechi401@gmail.com
 
 ## 🎉 Fun Facts
 - I love solving complex problems and learning new algorithms.
