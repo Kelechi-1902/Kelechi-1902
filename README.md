@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there! I'm [Agwu Kelechi Kalu], a passionate **Software Developer** with a deep love for **Web Development** and **Software Engineering**. Welcome to my corner of GitHub, where I share projects, experiments, and code that fuel my curiosity and drive to innovate.
+Hello there! I'm **Agwu Kelechi Kalu**, a passionate **Software Developer** with a deep love for **Web Development** and **Software Engineering**. Welcome to my corner of GitHub, where I share projects, experiments, and code that fuel my curiosity and drive to innovate.
 
 ## 🚀 About Me
 
