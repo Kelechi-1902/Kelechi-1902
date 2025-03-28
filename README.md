@@ -30,10 +30,6 @@ I'm a passionate frontend developer dedicated to crafting elegant, responsive, a
 - Performance optimization techniques
 - Responsive design across devices
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Kelechi-1902=Kelechi-1902&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Kelechi-1902=Kelechi-1902&layout=compact&theme=radical)
-
 ## 🏆 Professional Highlights
 - Created scalable frontend architectures
 - Implemented design systems
